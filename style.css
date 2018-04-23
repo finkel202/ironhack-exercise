@@ -92,3 +92,12 @@ h5{
 .service-box .img{
     width: 125px;
 }
+
+.nav-bar-ul{
+    width: 1200px
+
+}
+
+.nav-bar-li{
+    list-style-type: none;
+}
